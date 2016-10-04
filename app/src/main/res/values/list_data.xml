@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>25001</item>
+        <item>25002</item>
+        <item>25003</item>
+        <item>25004</item>
+        <item>25005</item>
+        <item>25006</item>
+        <item>25007</item>
+        <item>25008</item>
+        <item>25009</item>
+
+    </string-array>
+</resources>

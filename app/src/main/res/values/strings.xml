@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sandbox</string>
+    <string name="hint_new_message">Message</string>
+    <string name="maintitle">AT Message</string>
+</resources>
